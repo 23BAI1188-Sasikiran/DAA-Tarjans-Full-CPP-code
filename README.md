@@ -57,6 +57,8 @@ During **backtracking**, if a node’s `low-link` equals its `discovery time`, i
 
 ## Build and Run
 
+You can copy the code and run in any online gcc compiler...
+
 Compile with any C++17-compatible compiler:
 
 ```bash
